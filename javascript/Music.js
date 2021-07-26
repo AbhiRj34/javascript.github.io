@@ -13,7 +13,7 @@ const progress_div = document.getElementById("progress_div");
 
 const songs = [
    { 
-    name: "Karan-1",
+    name: "karan-1",
     title: "Temporery Pyar",                                               
     artist: "Kaka",
 },
